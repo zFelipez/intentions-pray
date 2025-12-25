@@ -13,7 +13,7 @@ export const addIntention = async (intentions: Intention) => {
     revalidatePath('/')
     revalidatePath('/adm')
 
-  return await prisma.intentions.create({
+  return await prisma.intention.create({
     data: {
       ...intentions,
     },
