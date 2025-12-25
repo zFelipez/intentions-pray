@@ -17,7 +17,7 @@ import {
   TableHeader,
   TableRow,
 } from "@/components/ui/table";
-import { Intentions } from "@prisma/client";
+import { Intention  } from "@prisma/client";
 import {
   DropdownMenu,
   DropdownMenuTrigger,
@@ -30,7 +30,7 @@ import { ArrowRight, MoreHorizontalIcon } from "lucide-react";
 import { deleteIntention } from "../_actions/delete-intention";
 
 interface IntentionsTableProps {
-  intentions: Intentions[];
+  intentions: Intention[];
   admin: boolean;
 }
 

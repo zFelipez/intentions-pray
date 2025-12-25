@@ -1,7 +1,6 @@
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
-import { Dialog, DialogTrigger } from "@/components/ui/dialog";
-import { Button } from "@/components/ui/button";
+ 
 import { Send } from "./_components/send";
 import { IntentionsTable } from "./_components/intentions-table";
 import { getIntentions } from "./_data-access/get-intentions";

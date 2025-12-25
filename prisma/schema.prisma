@@ -15,7 +15,7 @@ datasource db {
 }
 
 
-model Intentions{
+model Intention{
   id String @id @default(uuid())
   username String 
   title String 
