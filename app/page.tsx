@@ -12,7 +12,7 @@ export default async function Home() {
   
   return (
     <div className=" bg-red-400   h-screen w-full flex flex-col items-center justify-center">
-      <div className=" scroll-auto max-sm:w-[80%] w-[400px] flex  items-start justify-center font-sans border bg-white rounded-2xl dark:bg-black pt-10">
+      <div className=" scroll-auto max-sm:w-[95%] w-[400px] flex  items-start justify-center font-sans border bg-white rounded-2xl dark:bg-black pt-10">
         <Tabs
           defaultValue="public"
           className="w-[400px] flex flex-col justify-center items-center"
