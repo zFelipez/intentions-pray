@@ -8,7 +8,7 @@
 
 O projeto utiliza **Next.js com App Router**, **Server Actions**, **Prisma ORM** e **PostgreSQL**.
 
-Tenho o objetivo de principalmente praticar: Server Actions e Data access Layer no Next.Js 
+Tenho o objetivo de principalmente praticar: Server Actions e Data access Layer no Next.Js e validação de formulario com React Hook Form e Zod 
 
 ---
 
