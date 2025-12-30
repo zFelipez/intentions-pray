@@ -6,7 +6,9 @@
 
 **Intercession** é uma aplicação web em desenvolvimento para **registro, organização e gerenciamento de intenções de oração**, criada com foco em simplicidade, propósito e uso de tecnologias modernas do ecossistema JavaScript.
 
-O projeto utiliza **Next.js com App Router**, **Server Actions**, **Prisma ORM** e **PostgreSQL**, seguindo boas práticas de arquitetura e organização de código.
+O projeto utiliza **Next.js com App Router**, **Server Actions**, **Prisma ORM** e **PostgreSQL**.
+
+Tenho o objetivo de principalmente praticar: Server Actions e Data access Layer no Next.Js 
 
 ---
 
