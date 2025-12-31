@@ -51,6 +51,7 @@ O projeto está **em desenvolvimento ativo**.
 * **Tailwind CSS**
 * **React Hook Form**
 * **Zod**
+* **ShadCN**
 * **Sonner (notificações)**
 
 ### Backend / Infraestrutura
@@ -144,6 +145,7 @@ Este projeto tem como objetivo principal:
 * Uso real de **Server Actions**
 * Integração com banco de dados e Prisma ORM
 * Validação com React Hook Form e Zod
+* Design Com ShadCN
 * Evolução contínua como desenvolvedor
 
 ---
