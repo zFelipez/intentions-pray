@@ -142,8 +142,8 @@ Este projeto tem como objetivo principal:
 
 * Aprendizado prático com **Next.js moderno**
 * Uso real de **Server Actions**
-* Integração completa com banco de dados
-* Aplicação de boas práticas de arquitetura
+* Integração com banco de dados e Prisma ORM
+* Validação com React Hook Form e Zod
 * Evolução contínua como desenvolvedor
 
 ---
